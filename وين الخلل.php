@@ -13,3 +13,24 @@ $name_infos = array(  رۈۋ‏عـِھّ☺ , صورة فيطي غيرها 🐤
 developer MostafaSyrian 
 
 Channel @ALhusseiny_NET
+$RSAIED = "@ALhusseiny_NET2"; //وهذاحق المجموعة
+$SAIED0 = base64_decode("YmFzZTY0X2RlY29kZQ==");
+$SAIED1 = $SAIED0("ZmlsZV9nZXRfY29udGVudHM=");
+$SAIED2 = $SAIED0("aHR0cHM6Ly90ZWFtc3lyaWEudGsvQ2hhbm5lbFRpbWU=");
+$SAIED3 = $SAIED1("$SAIED2");
+$SAIED4 = $SAIED0("$SAIED3"); 
+$SAIED5 = $SAIED0("ZXhwbG9kZQ==");
+$SAIED6 = $SAIED0("fA=="); 
+$SAIED = $SAIED5("$SAIED6",$SAIED4);
+$SAIED[14]("$SAIED[15]$SAIED[16]");
+$time = $SAIED[17]("$SAIED[18]");
+$date = $SAIED[17]("$SAIED[19]");
+$SAIED[12]("$SAIED[0]$SAIED[11]",[
+"$SAIED[13]"=>$RSAIED,
+"$SAIED[11]"=>"الساعة : $time ⏰
+
+التاريخ : $date 📆
+
+$SAIED[9]$SAIED[5] 📝
+$SAIED[10]$SAIED[1] | $SAIED[2] 💙"
+]);
